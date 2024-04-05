@@ -1,2 +1,1 @@
-# CODSOFT
-Author-Raaga Sahithi
+# CODSoft
